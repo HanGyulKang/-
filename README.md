@@ -6,3 +6,8 @@
 [repository 링크](https://github.com/HanGyulKang/basic_object_oriented_programming)
    
 ---
+  
+2. [인프런 : 자바 개발자를 위한 코틀린 입문](https://www.inflearn.com/course/java-to-kotlin)  
+[repository 링크](https://github.com/HanGyulKang/basic_kotlin_for_java_developer)  
+
+---
